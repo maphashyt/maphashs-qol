@@ -8,7 +8,8 @@
     "FovMixin",
     "FireMixin",
     "ShieldMixin",
-    "TitleScreenMixin"
+    "TitleScreenMixin",
+    "InGameOverlayRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
