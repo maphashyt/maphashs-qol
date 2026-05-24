@@ -1,2 +1,9 @@
-# maphashs-qol
-This mod is basically my QOL mod, idk why i uploaded it here lol, u can do anything you want with it, infact I encourage you to do that &lt;3, the mod includes features like Low Fire, Low Shields and No FOV changing when you have effects on you.
+# Maphash&#39;s QOL
+
+## Setup
+
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+
+## License
+
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.

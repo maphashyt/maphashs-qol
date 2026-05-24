@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "maphashs-qol",
+	"version": "${version}",
+	"name": "Maphash's QOL",
+	"description": "Essential QOL Features <3",
+	"authors": [
+		"Maphash"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/maphashs-qol/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"pl.maphash.MaphashsQOL"
+		],
+		"client": [
+			"pl.maphash.MaphashsQOLClient"
+		],
+		"modmenu": [
+			"pl.maphash.config.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"maphashs-qol.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"modmenu": ">=17.0.0"
+	},
+	"suggests": {
+		"modmenu": ">=17.0.0"
+	}
+}

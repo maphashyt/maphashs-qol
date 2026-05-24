@@ -1,0 +1,11 @@
+{
+  "noFovChange": true,
+  "lowFire": true,
+  "lowShield": true,
+  "quickConnectServers": [
+    {
+      "name": "mcpvp",
+      "address": "mcpvp.club"
+    }
+  ]
+}
